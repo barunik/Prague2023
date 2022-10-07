@@ -1,6 +1,6 @@
 -
-  date: "2021-10-07"
-  dateReadable: "October 7 (Thursday)"
+  date: "2023-10-05"
+  dateReadable: "October 5 (Thursday)"
   tracks:
     - {title: "Sessions Thursday", color: "#be4e4e"}
   timeslots:
@@ -12,12 +12,12 @@
     - {
     	startTime: "9:00",
     	endTime: "9:30",
-    	sessionIds: [001]
+    	sessionIds: [000]
     }
     - {
     	startTime: "9:30",
     	endTime: "9:50",
-    	sessionIds: [022]
+    	sessionIds: [000]
     }
     #- {
   #  	startTime: "9:20",
@@ -27,7 +27,7 @@
     - {
     	startTime: "9:50",
     	endTime: "10:10",
-    	sessionIds: [020]
+    	sessionIds: [000]
     }
 
     - {
@@ -38,22 +38,22 @@
     - {
     	startTime: "10:30",
     	endTime: "11:00",
-    	sessionIds: [005]
+    	sessionIds: [000]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:20",
-    	sessionIds: [021]
+    	sessionIds: [000]
     }
     - {
     	startTime: "11:20",
     	endTime: "11:40",
-    	sessionIds: [033]
+    	sessionIds: [000]
     }
     - {
     	startTime: "11:40",
     	endTime: "12:00",
-    	sessionIds: [030]
+    	sessionIds: [000]
     }
 
 
@@ -66,17 +66,17 @@
     - {
       	startTime: "12:50",
       	endTime: "13:20",
-      	sessionIds: [007]
+      	sessionIds: [000]
     }
     - {
       	startTime: "13:20",
       	endTime: "13:40",
-      	sessionIds: [024]
+      	sessionIds: [000]
     }
     - {
       	startTime: "13:40",
       	endTime: "14:00",
-      	sessionIds: [028]
+      	sessionIds: [000]
     }
     - {
       	startTime: "14:00",
@@ -86,12 +86,12 @@
     - {
       	startTime: "14:20",
       	endTime: "14:50",
-      	sessionIds: [004]
+      	sessionIds: [000]
     }
     - {
         	startTime: "14:50",
         	endTime: "15:20",
-        	sessionIds: [002]
+        	sessionIds: [000]
       }
     - {
       	startTime: "15:20",
@@ -101,39 +101,39 @@
     - {
       	startTime: "15:50",
       	endTime: "18:30",
-      	sessionIds: [104]
+      	sessionIds: [000]
     }
     - {
       	startTime: "18:30",
         endTime: "22:00",
-      	sessionIds: [103]
+      	sessionIds: [000]
     }
 
 -
-  date: "2021-10-08"
-  dateReadable: "October 8 (Friday)"
+  date: "2023-10-06"
+  dateReadable: "October 6 (Friday)"
   tracks:
     - {title: "Sessions Friday", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "8:30",
     	endTime: "9:00",
-    	sessionIds: [010]
+    	sessionIds: [000]
     }
     - {
     	startTime: "9:00",
     	endTime: "9:30",
-    	sessionIds: [011]
+    	sessionIds: [000]
     }
     - {
     	startTime: "9:30",
     	endTime: "9:50",
-    	sessionIds: [027]
+    	sessionIds: [000]
     }
     - {
     	startTime: "9:50",
     	endTime: "10:10",
-    	sessionIds: [029]
+    	sessionIds: [000]
     }
     - {
       	startTime: "10:10",
@@ -143,17 +143,17 @@
     - {
     	startTime: "10:30",
     	endTime: "11:00",
-    	sessionIds: [003]
+    	sessionIds: [000]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:30",
-    	sessionIds: [026]
+    	sessionIds: [000]
     }
     - {
     	startTime: "11:30",
     	endTime: "11:50",
-    	sessionIds: [034]
+    	sessionIds: [000]
     }
 
     - {
@@ -165,17 +165,17 @@
     - {
     	startTime: "12:40",
     	endTime: "13:10",
-    	sessionIds: [006]
+    	sessionIds: [000]
     }
     - {
     	startTime: "13:10",
     	endTime: "13:40",
-    	sessionIds: [012]
+    	sessionIds: [000]
     }
     - {
     	startTime: "13:40",
     	endTime: "14:10",
-    	sessionIds: [014]
+    	sessionIds: [000]
     }
     - {
       	startTime: "14:10",
@@ -185,17 +185,17 @@
     - {
     	startTime: "14:30",
     	endTime: "15:00",
-    	sessionIds: [008]
+    	sessionIds: [000]
     }
     - {
     	startTime: "15:00",
     	endTime: "15:30",
-    	sessionIds: [009]
+    	sessionIds: [000]
     }
     - {
       	startTime: "15:30",
       	endTime: "16:00",
-      	sessionIds: [032]
+      	sessionIds: [000]
       }
 
     - {
