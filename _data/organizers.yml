@@ -8,3 +8,5 @@
     - {name: "International Research Training Group 1792", description: "International Research Training Group 1792", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/", imageUrl: "irtg.png"}
     - {name: "Blockchain Research Center", description: "Blockchain Research Center", link: "http://hu.berlin/brc", imageUrl: "BRC.png"}
     - {name: "Fintech and Artificial Intelligence in Finance", description: "Fintech and Artificial Intelligence in Finance", link: "https://fin-ai.eu", imageUrl: "fin-logo.png"}
+    - {name: "quantlet", description: "quantlet.com", link: "https://quantlet.com", imageUrl: "quantlet.png"}
+    - {name: "quantinar", description: "quantinar.com", link: "https://quantinar.com", imageUrl: "quantinar.png"}
