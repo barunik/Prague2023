@@ -8,7 +8,7 @@ STAT of ML (Statistics of Machine Learning) conference to be held from October 5
 
 ##### Submission Procedure
 
-Papers must be submitted via email directly to [Jozef Barunik](https://barunik.github.io){:target="blank"} by July 30, 2023. All submitted papers will be reviewed by the organizers.<br/>
+Papers must be submitted via email directly to [Jozef Barunik](https://barunik.github.io){:target="blank"} by July 30, 2023. All submitted papers will be reviewed by the organizers. <br/>
 
 ##### Conference Registration and Payment Details
 
