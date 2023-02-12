@@ -37,3 +37,39 @@
   rockstar: true
   social:
     - {name: "github", link: "www.quantlet.de"}
+
+-
+  id: 4
+  name: "Bernard"
+  surname: "Silverman"
+  company: "University of Oxford"
+  title: "Emeritus Professor of Statistics"
+  bio: '<p> </p>'
+  thumbnailUrl: silverman.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.bernardsilverman.co.uk"}
+
+-
+  id: 5
+  name: "Natalie"
+  surname: "Packham"
+  company: "Berlin School of Economics and Law"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: nat.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.packham.net"}
+
+-
+  id: 6
+  name: "Huei-Wen"
+  surname: "Teng"
+  company: "National Yang Ming Chiao Tung University"
+  title: "Associate Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: nat.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://hackmd.io/@hwteng/HyKOPoA6d"}
