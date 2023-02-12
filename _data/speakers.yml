@@ -69,7 +69,7 @@
   company: "National Yang Ming Chiao Tung University"
   title: "Associate Professor"
   bio: '<p> </p>'
-  thumbnailUrl: nat.jpg
+  thumbnailUrl: HueiWen.jpg
   rockstar: false
   social:
     - {name: "homepage", link: "https://hackmd.io/@hwteng/HyKOPoA6d"}
