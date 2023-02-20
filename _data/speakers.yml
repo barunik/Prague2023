@@ -52,6 +52,42 @@
 
 -
   id: 5
+  name: "Jianqing"
+  surname: "Fan"
+  company: "Princeton"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: jianqing.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://fan.princeton.edu"}
+
+-
+  id: 6
+  name: "Stefan"
+  surname: "Lessmann"
+  company: "Humboldt-Universität zu Berlin"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: lessmann.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/professuren/bwl/wi/personen/hl"}
+
+-
+  id: 7
+  name: "Melanie"
+  surname: "Schienle"
+  company: "Karlsruhe Institute of Technology (KIT)"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: melanie.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://sites.google.com/view/melanieschienle?pli=1"}
+
+-
+  id: 8
   name: "Natalie"
   surname: "Packham"
   company: "Berlin School of Economics and Law"
@@ -62,8 +98,9 @@
   social:
     - {name: "homepage", link: "http://www.packham.net"}
 
+
 -
-  id: 6
+  id: 10
   name: "Huei-Wen"
   surname: "Teng"
   company: "National Yang Ming Chiao Tung University"
