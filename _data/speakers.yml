@@ -121,3 +121,17 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://hackmd.io/@hwteng/HyKOPoA6d"}
+
+
+
+
+
+-
+  id: 30
+  name: "Matus Horvath"
+  surname: "Teng"
+  company: "Masaryk University"
+  title: "PhD Student"
+  bio: '<p> </p>'
+  thumbnailUrl: horvath.jpg
+  rockstar: false

@@ -91,6 +91,15 @@
   language: en
 
 
+-
+  id: 030
+  title: "Spectral Risk for Cryptocurrencies"
+  description: "Authors: Matus Horvath<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [30]
+  language: en
+
 
 
 ###### The rest
