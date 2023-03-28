@@ -98,17 +98,6 @@
   social:
     - {name: "homepage", link: "http://www.packham.net"}
 
--
-  id: 9
-  name: "Ying"
-  surname: "Chen"
-  company: "National University of Singapore"
-  title: "Associate Professor"
-  bio: '<p> </p>'
-  thumbnailUrl: Ying_Chen.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "http://www.nus.edu.sg/ngs/sup_CHEN_Ying.html"}
 
 -
   id: 10
@@ -121,17 +110,3 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://hackmd.io/@hwteng/HyKOPoA6d"}
-
-
-
-
-
--
-  id: 30
-  name: "Matus"
-  surname: "Horvath"
-  company: "Masaryk University"
-  title: "PhD Student"
-  bio: '<p> </p>'
-  thumbnailUrl: horvath.jpg
-  rockstar: false

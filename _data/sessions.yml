@@ -56,7 +56,7 @@
 
 -
   id: 007
-  title: "TBA"
+  title: "Consistent model determination of ultra-high dimensional nonstationary time series"
   description: "Authors: Melanie Schienle<br/>
   <p>Abstract:  TBA </p>"
   subtype: Presentation
@@ -73,15 +73,6 @@
   language: en
 
 -
-  id: 009
-  title: "Deep Switching State Space Model (DS3M) for Nonlinear Time Series Forecasting with Regime Switching"
-  description: "Authors: Ying Chen, Xiuqin Xu <br/>
-  <p>Abstract:  We propose a deep switching state space model (DSM) for efficient inference and forecasting of nonlinear time series with irregularly switching among various regimes. The switching among regimes is captured by both discrete and continuous latent variables with recurrent neural networks. The model is estimated with variational inference using a reparameterization trick. We test the approach on a variety of simulated and real datasets. In all cases, DSM achieves competitive performance compared to several state-of-the-art methods (e.g. GRU, SRNN, DSARF, SNLDS), with superior forecasting accuracy, convincing interpretability of the discrete latent variables, and powerful representation of the continuous latent variables for different kinds of time series. Specifically, the MAPE values increase by 0.09% to 15.71% against the second-best performing alternative models. </p>"
-  subtype: Presentation
-  speakers: [9]
-  language: en
-
--
   id: 010
   title: "Improving Credit Scoring: A Rescaled Cluster-Then-Predict Approach"
   description: "Authors: Huei-Wen Teng<br/>
@@ -90,15 +81,6 @@
   speakers: [10]
   language: en
 
-
--
-  id: 030
-  title: "Spectral Risk for Cryptocurrencies"
-  description: "Authors: Matus Horvath<br/>
-  <p>Abstract:  TBA </p>"
-  subtype: Presentation
-  speakers: [30]
-  language: en
 
 
 
