@@ -29,9 +29,9 @@
 
 -
   id: 004
-  title: "TBA"
+  title: "Statistics and Machine Learning in the fight against Modern Slavery"
   description: "Authors: Bernard Silverman<br/>
-  <p>Abstract:  TBA </p>"
+  <p>Abstract:  It is only in recent decades that the crime of Modern Slavery/Human Trafficking has become well established in the political and public consciousness.  I will discuss the part that statistical approaches have played and the actual and potential contribution of machine learning.   One important issue is the right way to deal with estimates that are known to be inaccurate but nevertheless may have beneficial impact.   There are some analogies with the public health achievements of Florence Nightingale in the 19th century, which saved many millions of lives even before the advent of modern scientific medicine.   </p>"
   subtype: Presentation
   speakers: [4]
   language: en
