@@ -132,3 +132,13 @@
   bio: '<p> </p>'
   thumbnailUrl: horvath.jpg
   rockstar: false
+
+-
+  id: 31
+  name: "Xingjia"
+  surname: "Wang"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD Student"
+  bio: '<p> </p>'
+  thumbnailUrl: xingjia.jpg
+  rockstar: false

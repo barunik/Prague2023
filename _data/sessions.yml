@@ -101,6 +101,14 @@
   speakers: [30]
   language: en
 
+-
+  id: 031
+  title: "新代 A new Digital Art Index."
+  description: "Authors: Xingjia Wang<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [31]
+  language: en
 
 
 
