@@ -91,6 +91,15 @@
   speakers: [10]
   language: en
 
+-
+  id: 011
+  title: "Robustified Markowitz approach for diversified portfolios with crypto-assets"
+  description: "Authors: Daniel Traian Pele<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [11]
+  language: en
+
 
 -
   id: 030

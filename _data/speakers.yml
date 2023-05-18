@@ -122,6 +122,18 @@
   social:
     - {name: "homepage", link: "https://hackmd.io/@hwteng/HyKOPoA6d"}
 
+-
+  id: 11
+  name: "Daniel"
+  surname: "Traian Pele"
+  company: "Bucharest University of Economic Studies"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: pele.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.imba.fabiz.ase.ro/member/daniel-traian-pele/"}
+
 
 -
   id: 30
@@ -142,3 +154,5 @@
   bio: '<p> </p>'
   thumbnailUrl: xingjia.jpg
   rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/xingjia-wang-folder/xingjia-wang"}
