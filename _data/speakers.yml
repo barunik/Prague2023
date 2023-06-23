@@ -76,15 +76,16 @@
 
 -
   id: 7
-  name: "Melanie"
-  surname: "Schienle"
-  company: "Karlsruhe Institute of Technology (KIT)"
+  name: "Qingfu"
+  surname: "Liu"
+  company: "School of Economics, Fudan University"
   title: "Professor"
-  bio: '<p> </p>'
-  thumbnailUrl: melanie.jpg
+  bio: '<p> Dr. Qingfu Liu, a professor and Ph.D. advisor at the School of Economics, Fudan University. He holds a Ph.D. in Management Science and Engineering from Southeast University, completed his postdoctoral fellowship in Finance at Fudan University, and was a visiting scholar at Stanford University in the United States. In 2017, he was selected for the Shanghai Pujiang Program. He currently holds multiple roles including serving as the Executive Dean of the Fudan-Stanford Institute for China Financial Technology and Risk Analytics, the Academic Vice Dean of the Fudan-Zhongzhi Big Data Institute for Finance and Investment, and the Deputy Director of the Shanghai Financial Big Data Joint Innovation Laboratory. He also holds concurrent professorships at the School of Data Science, Fudan University and Yanqi Lake Beijing Institute of Mathematical Sciences and Applications. His primary research interests include FinTech, big data finance, green finance, and non-performing asset disposal. Dr. Liu has published over 100 papers in domestic and international journals such as the Journal of Econometrics and the Journal of International Money and Finance, authored three monographs, and hosted over 20 research projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology, and the Ministry of Education. His research has been recognized multiple times with Best Paper Awards or first-class awards at conferences, and his academic views and interviews have been published and reproduced by many mainstream media outlets.</p>'
+  thumbnailUrl: Qingfu.png
   rockstar: false
   social:
-    - {name: "homepage", link: "https://sites.google.com/view/melanieschienle?pli=1"}
+    - {name: "homepage", link: "https://fisf.fudan.edu.cn/en_show-112-129.html?k=fmB9"}
+
 
 -
   id: 8
@@ -133,6 +134,20 @@
   rockstar: false
   social:
     - {name: "homepage", link: "http://www.imba.fabiz.ase.ro/member/daniel-traian-pele/"}
+
+
+-
+  id: 12
+  name: "Melanie"
+  surname: "Schienle"
+  company: "Karlsruhe Institute of Technology (KIT)"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: melanie.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://sites.google.com/view/melanieschienle?pli=1"}
+
 
 
 -

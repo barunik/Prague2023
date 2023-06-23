@@ -58,9 +58,9 @@
 
 -
   id: 007
-  title: "Consistent model determination of ultra-high dimensional nonstationary time series"
-  description: "Authors: Melanie Schienle<br/>
-  <p>Abstract:  TBA </p>"
+  title: "The Live-Streaming Recommendation and Mutual Fund Performance"
+  description: "Authors: Qingfu Liu<br/>
+  <p>Abstract:  (hybrid talk) </p>"
   subtype: Presentation
   speakers: [7]
   language: en
@@ -102,6 +102,14 @@
   speakers: [11]
   language: en
 
+-
+  id: 012
+  title: "Consistent model determination of ultra-high dimensional nonstationary time series"
+  description: "Authors: Melanie Schienle<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [12]
+  language: en
 
 -
   id: 030
