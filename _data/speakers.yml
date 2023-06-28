@@ -52,15 +52,15 @@
 
 -
   id: 5
-  name: "Caio"
-  surname: "Almeida"
+  name: "Jianqing"
+  surname: "Fan"
   company: "Princeton"
   title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: CaioAlmeida.jpg
+  thumbnailUrl: jianqing.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://sites.google.com/view/caio-almeida"}
+    - {name: "homepage", link: "https://fan.princeton.edu"}
 
 -
   id: 6

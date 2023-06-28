@@ -38,14 +38,12 @@
 
 -
   id: 005
-  title: "Tail Risk and Asset Prices in the Short-term"
-  description: "Authors: Caio Almeida, Gustavo Freire, René Garcia and Rodrigo Hizmeri<br/>
-  <p>Abstract:  We combine high-frequency stock returns with risk-neutralization to extract the daily common component of tail risks perceived by investors in the cross-section of firms. Our tail risk measure significantly predicts the equity premium and variance risk premium at short-horizons. Furthermore, a long-short portfolio built by sorting stocks on their recent exposure to tail risk generates abnormal returns with respect to standard factor models and helps explain the momentum anomaly. Incorporating investors' preferences via risk-neutralization is fundamental to our findings. </p>"
+  title: "TBA"
+  description: "Authors: Jianqing Fan<br/>
+  <p>Abstract:  TBA </p>"
   subtype: Presentation
   speakers: [5]
   language: en
-  presentation: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216981"
-
 
 -
   id: 006
