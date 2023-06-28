@@ -71,12 +71,12 @@
   subtype: Presentation
   speakers: [6]
   language: en
-  
+
 -
   id: 007
   title: "The Live-Streaming Recommendation and Mutual Fund Performance"
-  description: "Authors: Qingfu Liu (Fudan University), Zhidan Luo (Fudan University), Yang Song (Washington University) and Chuanjie Wang (Fudan University)<br/>
-  <p>Abstract:  The live streaming economy, particularly live streaming e-commerce, is becoming a major component of China's digital economic development. This study investigates the impact of live streaming by fund companies on mutual fund performance, using data from over 10,000 live streams by 99 fund companies on China's leading fund live streaming platform, TianTian Fund APP. We employ machine learning techniques to process the live stream content and construct the "4Vs" (Visual, Vocal, Verbal, and Visitor) to measure different aspects of the content. Our analysis reveals that participating in live streaming significantly increases investor attention and fund flow, but negatively affects performance. The "4Vs" have heterogeneous effects on investor attention, fund flow, and performance. This research offers empirical evidence for the impact of live streaming on mutual fund performance and contributes to understanding the role of live streaming in the e-commerce industry.</p>"
+  description: "Authors: Qingfu Liu, Zhidan Luo, Yang Song and Chuanjie Wang<br/>
+  <p>Abstract:  The live streaming economy, particularly live streaming e-commerce, is becoming a major component of China's digital economic development. This study investigates the impact of live streaming by fund companies on mutual fund performance, using data from over 10,000 live streams by 99 fund companies on China's leading fund live streaming platform, TianTian Fund APP. We employ machine learning techniques to process the live stream content and construct the 4Vs (Visual, Vocal, Verbal, and Visitor) to measure different aspects of the content. Our analysis reveals that participating in live streaming significantly increases investor attention and fund flow, but negatively affects performance. The "4Vs" have heterogeneous effects on investor attention, fund flow, and performance. This research offers empirical evidence for the impact of live streaming on mutual fund performance and contributes to understanding the role of live streaming in the e-commerce industry.</p>"
   subtype: Presentation
   speakers: [7]
   language: en
