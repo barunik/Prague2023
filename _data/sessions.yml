@@ -1,7 +1,7 @@
 
 -
   id: 001
-  title: "Building a Digital Twin with Machine Learning Techniques: Graph and NLP"
+  title: "Data Science for a math less Digital Society"
   description: "Authors: Wolfgang Karl Härdle<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
@@ -110,14 +110,6 @@
   language: en
 
 
--
-  id: 010
-  title: "Improving Credit Scoring: A Rescaled Cluster-Then-Predict Approach"
-  description: "Authors: Huei-Wen Teng<br/>
-  <p>Abstract:  TBA </p>"
-  subtype: Presentation
-  speakers: [10]
-  language: en
 
 -
   id: 011
