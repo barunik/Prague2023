@@ -147,6 +147,18 @@
     - {name: "homepage", link: "http://coin.wne.uw.edu.pl/pwojcik/index_en.html"}
 
 -
+  id: 14
+  name: "Ruting"
+  surname: "Wang"
+  company: "Business School, Sun Yat-sen University"
+  title: "Postdoc"
+  bio: '<p> </p>'
+  thumbnailUrl: rutingwang.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "http://coin.wne.uw.edu.pl/pwojcik/index_en.html"}
+
+-
   id: 30
   name: "Matus"
   surname: "Horvath"

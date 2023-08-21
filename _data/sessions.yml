@@ -138,6 +138,14 @@
   speakers: [13]
   language: en
 
+-
+  id: 014
+  title: "Assessing Cryptocurrency Network Risk"
+  description: "Authors:  Ruting Wang<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [14]
+  language: en
 
 -
   id: 030
