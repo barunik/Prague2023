@@ -109,6 +109,28 @@
   speakers: [9]
   language: en
 
+-
+  id: 010
+  title: "Neural Tangent Kernel in Implied Volatility Forecasting: A Nonlinear Functional Autoregression Approach"
+  description: "Authors: Maria Grith, Ying Chen and Hannah L. H. Lai <br/>
+  <p>Abstract:  Implied volatility (IV) remains a pivotal yet intricate component of financial markets, posing continuous
+  challenges for accurate forecasting. We present a Nonlinear Functional Autoregression framework tailored to the series of
+  implied volatility surfaces-a dynamic domain influenced by moneyness and maturity. This approach, designed for European put
+   and call options, adeptly navigates the nonlinear and asymmetric temporal and spatial dependencies intrinsic to IV.
+   Central to our approach is the functional Neural Tangent Kernel (fNTK) estimator. Grounded in the Neural Tangent Kernel
+   parameterization, this estimator presents a modern statistical solution, parsing the intertwined dependencies found
+   within the projections on the covariance operator of the IV surfaces' time series. A methodological contribution lies
+   in establishing the nexus between fNTK and kernel regression, emphasizing fNTK's place in contemporary nonparametric
+   statistical modelling. Transitioning from methodology to empirical evidence, we showcase the framework's real-world
+   utility via an analysis of the S&P 500 index spanning January 2009 to December 2021. The fNTK not only stands out in
+   forecasting accuracy, achieving an average improvement of 4.54% to 39.44% in RMSE forecast accuracy for 5 to 20-day-ahead
+   forecasts but also paves the way for practical trading strategies. When underpinned by our model, straddle trading yields
+   a remarkable Sharpe ratio between 3.72 and 5.41, culminating in a staggering 107.79% to 528.36% relative enhancement in
+   trading results.  This convergence of methodological rigor and empirical results offers both a statistical advancement and a
+   beacon for practitioners in the options market. </p>"
+  subtype: Presentation
+  speakers: [10]
+  language: en
 
 
 -

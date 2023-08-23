@@ -111,6 +111,18 @@
     - {name: "homepage", link: "http://www.nus.edu.sg/ngs/sup_CHEN_Ying.html"}
 
 -
+  id: 10
+  name: "Maria"
+  surname: "Grith"
+  company: "Erasmus School of Economics"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: mariagrith.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.mariagrith.com"}
+
+-
   id: 11
   name: "Daniel"
   surname: "Traian Pele"
