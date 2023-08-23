@@ -170,6 +170,24 @@
   language: en
 
 -
+  id: 015
+  title: "Deep Learning Persistence of Economic Time Series"
+  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [15]
+  language: en
+
+-
+  id: 016
+  title: "Deep Learning Persistence of Economic Time Series"
+  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [16]
+  language: en
+
+-
   id: 030
   title: "Spectral Risk for Cryptocurrencies"
   description: "Authors: Matus Horvath<br/>
@@ -207,6 +225,36 @@
   subtype: Presentation
   speakers: [32]
   language: en
+
+
+-
+  id: 035
+  title: "Bilevel portfolio optimization"
+  description: "Authors: Monika Kaľatová <br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [35]
+  language: en
+
+
+-
+  id: 036
+  title: "Portfolio optimization using stochastic non-dominance"
+  description: "Authors: Jana Junova<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [36]
+  language: en
+
+-
+  id: 037
+  title: "TBA"
+  description: "Authors: Karel Kozmik <br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [37]
+  language: en
+
 
 
 ###### The rest
