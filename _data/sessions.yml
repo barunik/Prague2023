@@ -188,6 +188,25 @@
   language: en
 
 -
+  id: 017
+  title: "Advancing Markowitz: Market-driven trees for Multi-Asset Portfolio Optimization"
+  description: "Authors: Alla Petukhina, Anastasija Tetereva<br/>
+  <p>Abstract: This research extends the Machine Learning method Random Forest to perform portfolio
+  optimization under the Markowitz framework. We will be considering a multi-asset portfolio composed
+  by stocks, bonds, credits, high-yields, and commodities, while using macroeco- nomic and markets
+  indicators to identify conditions under which the allocations are depend- ent on. The research demonstrates
+  that the proposed methodology outperforms a classical Equal-Weight portfolio, as well as the plain Sharpe
+  Ratio maximization and through the use of Hidden Markov Model for regime identification, even when taking
+  into account trading costs. The results hold when shifting from an expanding window to a rolling window,
+  and are further explored when considering restrains on turnover. We further make use of Accumulated
+  Local Effects (ALE) plots in order to have insights on the black-box that drives the model and make inferences
+  on how the asset classes perform under different macroeconomic and market conditions. </p>"
+  subtype: Presentation
+  speakers: [17]
+  language: en
+
+
+-
   id: 030
   title: "Spectral Risk for Cryptocurrencies"
   description: "Authors: Matus Horvath<br/>

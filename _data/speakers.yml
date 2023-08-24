@@ -194,6 +194,18 @@
   social:
     - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hanusl"}
 
+-
+  id: 17
+  name: "Alla"
+  surname: "Petukhina"
+  company: "Humboldt-Universität zu Berlin"
+  title: "Researcher"
+  bio: '<p> </p>'
+  thumbnailUrl: alla.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://scholar.google.de/citations?user=XI0PS-EAAAAJ&hl=en"}
+
 
 -
   id: 30
