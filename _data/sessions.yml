@@ -300,6 +300,15 @@
   speakers: [38]
   language: en
 
+-
+    id: 039
+    title: "Empirical asset pricing via quantiles Machine learning approach"
+    description: "Authors:  Martin Hronec<br/>
+    <p>Abstract:   </p>"
+    subtype: Presentation
+    speakers: [39]
+    language: en
+
 
 ###### The rest
 
