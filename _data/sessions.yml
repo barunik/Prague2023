@@ -226,6 +226,23 @@
   speakers: [32]
   language: en
 
+-
+  id: 033
+  title: "Asymmetric Risk Measures"
+  description: "Authors: Matej Nevrla <br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [33]
+  language: en
+
+-
+  id: 034
+  title: "Deep Reinforcement Learning and Inattentive Quantile Maximizer"
+  description: "Authors: Lukas Janasek <br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [34]
+  language: en
 
 -
   id: 035
@@ -255,6 +272,14 @@
   speakers: [37]
   language: en
 
+-
+  id: 038
+  title: "TBA"
+  description: "Authors: Lenka Nechvátalová<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [38]
+  language: en
 
 
 ###### The rest
