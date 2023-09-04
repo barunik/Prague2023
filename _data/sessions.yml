@@ -207,6 +207,22 @@
 
 
 -
+  id: 018
+  title: "Combining Robustness and Regularization in Training Neural Networks over Small Data"
+  description: "Jan Kalina<br/>
+  <p>Abstract: Multilayer perceptrons and radial basis function networks represent
+established tools for nonlinear regression modeling with numerous applications
+in various fields. Their standard training is vulnerable with respect to the presence
+of outliers in the data. We propose several novel (possibly regularized) versions,
+which are based on robust loss functions inspired by robust linear regression.
+Robust inter-quantile versions are also proposed. Intensive numerical experiments
+reveal the robust versions to be meaningful for data contaminated by outliers.  </p>"
+  subtype: Presentation
+  speakers: [18]
+  language: en
+
+
+-
   id: 030
   title: "Spectral Risk for Cryptocurrencies"
   description: "Authors: Matus Horvath<br/>

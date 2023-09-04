@@ -206,6 +206,17 @@
   social:
     - {name: "homepage", link: "https://scholar.google.de/citations?user=XI0PS-EAAAAJ&hl=en"}
 
+-
+  id: 18
+  name: "Jan"
+  surname: "Kalina"
+  company: "Charles University"
+  title: "Researcher"
+  bio: '<p> </p>'
+  thumbnailUrl: KalinaFoto.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://scholar.google.de/citations?user=XI0PS-EAAAAJ&hl=en"}
 
 -
   id: 30
