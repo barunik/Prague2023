@@ -346,8 +346,6 @@
   bio: '<p> </p>'
   thumbnailUrl: vejmelka.jpg
   rockstar: false
-%  social:
-%    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
 
 -
   id: 41
