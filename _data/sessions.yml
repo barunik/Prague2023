@@ -325,6 +325,23 @@ reveal the robust versions to be meaningful for data contaminated by outliers.  
     speakers: [39]
     language: en
 
+-
+    id: 040
+    title: "Usage of clustering in loss reserving in non-life insurance"
+    description: "Authors:  Petr Vejmělka<br/>
+    <p>Abstract:   </p>"
+    subtype: Presentation
+    speakers: [40]
+    language: en
+
+-
+  id: 041
+  title: " On Crypto Traders’ Preferences toward Jumps"
+  description: "Authors: Francis Liu and Artur Sepp and Natalie Packham<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [41]
+  language: en
 
 ###### The rest
 

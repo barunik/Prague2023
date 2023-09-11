@@ -336,3 +336,27 @@
   rockstar: false
   social:
     - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
+
+-
+  id: 40
+  name: "Petr"
+  surname: "Vejmělka"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: vejmelka.jpg
+  rockstar: false
+%  social:
+%    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
+
+-
+  id: 41
+  name: "Francis"
+  surname: "Liu"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: francis.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/francis-liu"}
