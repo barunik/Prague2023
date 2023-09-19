@@ -52,15 +52,15 @@
 
 -
   id: 5
-  name: "Caio"
-  surname: "Almeida"
-  company: "Princeton"
+  name: "Rodrigo"
+  surname: "Hizmeri"
+  company: "University of Liverpool"
   title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: CaioAlmeida.jpg
+  thumbnailUrl: rodrigopic.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://sites.google.com/view/caio-almeida"}
+    - {name: "homepage", link: "https://rodrigohizmeri.com"}
 
 -
   id: 6
@@ -358,3 +358,13 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/francis-liu"}
+
+-
+  id: 42
+  name: "Monika"
+  surname: "Matouskova"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: matouskova.jpg
+  rockstar: false

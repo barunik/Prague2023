@@ -343,6 +343,15 @@ reveal the robust versions to be meaningful for data contaminated by outliers.  
   speakers: [41]
   language: en
 
+-
+  id: 042
+  title: "Distributionally Robust Fixed Interval Scheduling on Heterogeneous Machines under Uncertain Finishing Times"
+  description: "Authors: Monika Matouskova<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [42]
+  language: en
+
 ###### The rest
 
 
