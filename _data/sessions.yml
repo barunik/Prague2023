@@ -20,7 +20,7 @@
 
 -
   id: 003
-  title: "TBA"
+  title: "Decision making during COVID-19: expectations vs reality"
   description: "Authors: Milos Kopa<br/>
   <p>Abstract:  TBA </p>"
   subtype: Presentation
@@ -221,6 +221,45 @@ reveal the robust versions to be meaningful for data contaminated by outliers.  
   speakers: [18]
   language: en
 
+-
+    id: 019
+    title: "Portfolio Optimization without Utility Maximization with Links to the Frequentist and the Bayesian Statistics"
+    description: "Authors:  Jan Vecer<br/>
+    <p>Abstract:  I present a novel approach to portfolio optimization that
+completely bypasses utility maximization.
+The idea is based on a very well known fact from option pricing that
+prices are likelihood ratios of the
+two state price densities of the asset and the reference asset. Using
+this fact, one trivially concludes that
+the price of the optimal portfolio is simply a likelihood ratio of the
+physical measure used by the agent and the
+risk neutral density.Furthermore, a well known property of the
+likelihood ratio is that the expected log likelihood
+is the relative entropy. As a consequence, it means that the expected
+log returns of the portfolios are maximized
+for the solution in the form of the likelihood ratio. In other words,the
+prices are log utility optimal, but this
+is a consequence rather than the design. A general utility maximization
+can be viewed as a method how to alter
+the physical measure to a measure closer to the risk neutral measure in
+the relative entropy sense.
+
+As the general methods of utility maximization often require solving 
+complicated problems based on stochastic
+optimal control, we contrast these methods with standard approachesused
+in both the frequentist and the Bayesian
+statistics, where the choice of the physical measure is essentially ad
+hoc. That we are in business is supported
+by the fact that we can reconstruct the solution of  the Merton's
+portfolio problem as a trivial consequence.
+Markowitz's approach to portfolio optimization can be viewed as a second
+order approximation of the log utility function.
+In addition, our approach allows for solving portfolio problems that
+have not even been previously considered, such as
+optimal portfolio problems in driftless (mean reverting) markets.  </p>"
+    subtype: Presentation
+    speakers: [19]
+    language: en
 
 -
   id: 030

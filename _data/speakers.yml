@@ -219,6 +219,18 @@
   #  - {name: "homepage", link: "https://scholar.google.de/citations?user=XI0PS-EAAAAJ&hl=en"}
 
 -
+  id: 19
+  name: "Jan"
+  surname: "Vecer"
+  company: "Charles University"
+  title: "Associate Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: vecer.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~vecer/"}
+
+-
   id: 30
   name: "Matus"
   surname: "Horvath"
