@@ -231,6 +231,20 @@
     - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~vecer/"}
 
 -
+  id: 20
+  name: "Zuzana"
+  surname: "Prášková"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: praskova.jpg
+  rockstar: false
+  #social:
+#    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+
+
+-
   id: 30
   name: "Matus"
   surname: "Horvath"

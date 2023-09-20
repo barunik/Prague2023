@@ -244,7 +244,7 @@ can be viewed as a method how to alter
 the physical measure to a measure closer to the risk neutral measure in
 the relative entropy sense.
 
-As the general methods of utility maximization often require solving 
+As the general methods of utility maximization often require solving
 complicated problems based on stochastic
 optimal control, we contrast these methods with standard approachesused
 in both the frequentist and the Bayesian
@@ -260,6 +260,16 @@ optimal portfolio problems in driftless (mean reverting) markets.  </p>"
     subtype: Presentation
     speakers: [19]
     language: en
+
+-
+  id: 020
+  title: "Using bootstrap in large panel data"
+  description: "Authors: Z.Praskova<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [20]
+  language: en
+
 
 -
   id: 030
