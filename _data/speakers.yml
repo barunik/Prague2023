@@ -404,3 +404,15 @@
   title: "PhD student"
   bio: '<p> </p>'
   rockstar: false
+
+-
+  id: 44
+  name: "Josef"
+  surname: "Kurka"
+  company: "Academy of Sciences and Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: pepa.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://ies.fsv.cuni.cz/cs/staff/kurka"}
