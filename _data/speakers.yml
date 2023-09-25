@@ -9,7 +9,7 @@
   thumbnailUrl: 20141129_WKH.jpg
   rockstar: true
   social:
-    - {name: "github", link: "www.quantlet.de"}
+    - {name: "homepage", link: "www.quantlet.de"}
 -
   id: 2
   name: "Jozef"
@@ -36,7 +36,7 @@
   thumbnailUrl: mk.jpg
   rockstar: true
   social:
-    - {name: "github", link: "www.quantlet.de"}
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~kopa/"}
 
 -
   id: 4
