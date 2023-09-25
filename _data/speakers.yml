@@ -394,3 +394,13 @@
   bio: '<p> </p>'
   thumbnailUrl: matouskova.jpg
   rockstar: false
+
+
+-
+  id: 43
+  name: "Jenher"
+  surname: "Jeng"
+  company: ""
+  title: "PhD student"
+  bio: '<p> </p>'
+  rockstar: false

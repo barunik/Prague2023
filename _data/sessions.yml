@@ -401,6 +401,21 @@ optimal portfolio problems in driftless (mean reverting) markets.  </p>"
   speakers: [42]
   language: en
 
+-
+  id: 043
+  title: "Building a Digital Twin with Machine Learning Techniques: Graph and NLP"
+  description: "Authors: Jenher Jeng<br/>
+  <p>Abstract:  The formation of knowledge in the human brain can be regarded as a fusion process of
+  information, and this process is fundamentally based on the human association ability. For machine learning
+  techniques to mimic how the human brain connects the dots of key information to assembly knowledge modules,
+  the challenges of building a system of artificial general intelligence (AGI) could go well beyond the level
+  of semantic analysis in natural language processing (NLP), e.g., ChatGPT’s large language model (LLM).
+  Naturally speaking, it is common to find ideas or insights which are extremely difficult to be described
+  in linguistic statements. We will demonstrate a man-machine co-learning process to build a personalized knowledge-base (PKB) as an embryo of digital brain to store a human’s thoughts and ideas to build a “digital twin” based on a three-layer architecture of knowledge graph which not only allows machine learning to overcome the curse of dimensionality on complex graph computing, but also provides a meta-framework to upgrade LLMs, develop a new operation system for designing genuinely personalized computers, and even allow neuroscience researchers to explore the twilight zone of consciousness in quantitative depth of quantum computing.</p>"
+  subtype: Presentation
+  speakers: [43]
+  language: en
+
 ###### The rest
 
 
