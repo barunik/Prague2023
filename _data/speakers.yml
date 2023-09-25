@@ -134,17 +134,6 @@
   social:
     - {name: "homepage", link: "http://www.imba.fabiz.ase.ro/member/daniel-traian-pele/"}
 
--
-  id: 12
-  name: "Melanie"
-  surname: "Schienle"
-  company: "Karlsruhe Institute of Technology (KIT)"
-  title: "Professor"
-  bio: '<p> </p>'
-  thumbnailUrl: melanie.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://sites.google.com/view/melanieschienle?pli=1"}
 
 -
   id: 13
