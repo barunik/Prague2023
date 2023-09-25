@@ -103,7 +103,7 @@
 -
   id: 009
   title: "Optimal Market Making under Model Uncertainty: A Robust Reinforcement Learning Approach"
-  description: "Authors: Hoang Hai Tran, Julian Sester and Yijiong Zhang <br/>
+  description: "Authors: Ying Chen, Hoang Hai Tran, Julian Sester and Yijiong Zhang <br/>
   <p>Abstract: We study the optimal market making problem in order-driven electronic markets, with a focus on model uncertainty. We consider ambiguity in order arrival intensities and derive a robust strategy that can perform under various market conditions. To achieve this, we introduce a tractable model for the limit order book using Markov Decision Processes and develop robust Reinforcement Learning to solve the complex optimization problem. This approach enables us to accurately represent the order book dynamics with tick structures, as opposed to the usual price dynamics modeled in stochastic approaches.  </p>"
   subtype: Presentation
   speakers: [9]
