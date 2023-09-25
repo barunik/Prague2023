@@ -180,7 +180,7 @@
 
 -
   id: 016
-  title: "Quantile impulse response functions via flexibe local projections"
+  title: "Learning Probability Distributions of Intraday Electricity Prices"
   description: "Authors: Lubos Hanus and Jozef Barunik<br/>
   <p>Abstract:  </p>"
   subtype: Presentation
@@ -442,9 +442,9 @@ optimal portfolio problems in driftless (mean reverting) markets.  </p>"
 -
   id: 103
   title: "Dinner"
-  place: "Restaurant Mincovna "
+  place: "Restaurant Tiskarna "
   service: true
-  description: "http://www.restauracemincovna.cz"
+  description: "https://www.restauracetiskarna.cz/jindrisska/"
 
 -
   id: 104
