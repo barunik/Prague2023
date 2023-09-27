@@ -244,18 +244,6 @@
   rockstar: false
 
 -
-  id: 31
-  name: "Xingjia"
-  surname: "Wang"
-  company: "Humboldt-Universität zu Berlin"
-  title: "PhD Student"
-  bio: '<p> </p>'
-  thumbnailUrl: xingjia.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/xingjia-wang-folder/xingjia-wang"}
-
--
   id: 32
   name: "Jurgita"
   surname: "Cerneviciene"
