@@ -377,9 +377,10 @@
   id: 43
   name: "Jenher"
   surname: "Jeng"
-  company: ""
-  title: "PhD student"
-  bio: '<p> </p>'
+  company: "National Taipei University of Technology and Taiwan Chamber of Industry and Commerce"
+  bio: '<p>Director of TuringEuler Project at National Taipei University of Technology
+Committee of IT Software, Taiwan Chamber of Industry and Commerce</p>'
+  thumbnailUrl: jenher.jpg
   rockstar: false
 
 -
